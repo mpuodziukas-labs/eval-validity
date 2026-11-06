@@ -1,0 +1,15 @@
+{
+  "alpha": 0.05,
+  "power": 0.8,
+  "max_mde": 0.08,
+  "bootstrap_resamples": 10000,
+  "ci_level": 0.95,
+  "seed": 20261105,
+  "ngram_n": 13,
+  "ngram_flag": 0.05,
+  "shingle_k": 3,
+  "minhash_perms": 128,
+  "minhash_seed": 7,
+  "jaccard_dup": 0.7,
+  "contaminated_floor": 0
+}
